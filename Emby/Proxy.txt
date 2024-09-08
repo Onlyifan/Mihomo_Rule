@@ -1,8 +1,9 @@
 # Magpie # Direct
+
 # PiliPili
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,misakaf.org
-#DIRECT,css.pilipili.club
+
 ## 纸片人
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,chirsemby.top
