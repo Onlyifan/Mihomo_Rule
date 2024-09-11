@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-SUFFIX,magpie.bond
 DOMAIN-SUFFIX,magpiecdn.tech
 IP-CIDR,239.255.255.250/32
-IP4CIDR,26.3.103.187/32
+IP-CIDR,26.3.103.187/32
 
 # PiliPili
 DOMAIN-SUFFIX,css.pilipili.club
